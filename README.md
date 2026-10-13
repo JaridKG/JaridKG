@@ -54,10 +54,6 @@ Right now, I'm especially interested in:
 
 `Azure` `Azure DevOps` `GitHub Actions` `Azure Functions` `Durable Functions` `Application Insights`
 
-### Data
-
-`Snowflake` `Databricks` `SQL` `Power BI`
-
 ## 🔭 What I'm Working On
 
 A question I keep coming back to is:
